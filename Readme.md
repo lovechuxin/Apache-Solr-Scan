@@ -1,4 +1,4 @@
-# Apache Solr Scan
+# Apache Solr 漏洞检测利用工具
 
 用来检测solr漏洞并利用的工具
 
