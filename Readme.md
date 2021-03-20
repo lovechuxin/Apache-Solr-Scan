@@ -10,7 +10,16 @@
 2、修改已知bug
 
 
+
+
+
+注：
+
 #### url处最后不要加/
-####7.zip和exe文件放到同一目录，漏洞利用时需要使用
+#### 7.zip和exe文件放到同一目录，漏洞利用时需要使用
 
 
+https://github.com/lovechuxin/solr_scan/blob/master/1.jpg
+
+
+https://github.com/lovechuxin/solr_scan/blob/master/2.jpg
